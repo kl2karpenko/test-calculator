@@ -1,4 +1,4 @@
-# testKnockout
+# test calculator
 
 Create:
 1) Online calculator with only 4 operations: add, substract, multiply and divide, and 10 digits
