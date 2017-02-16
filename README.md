@@ -1,9 +1,37 @@
 # test calculator
+Online calculator with history of actions.
 
-Create:
-1) Online calculator with only 4 operations: add, substract, multiply and divide, and 10 digits
-2) Create a history under your calculator that will save the results of all calculations ( mean that you save it localy, dont use any server) 
+## Description
+Implement single page application based on [KnockoutJS](http://knockoutjs.com/). The application is online calculator. There are should be visible on page:
+* numbers pad
+* operations pad 
+* field to see entered numbers, operations and calculations' result
+* list of calculation history (log)
 
-For this task you should use HTML, CSS and JS. For UI you can use what ever you want, e.g. Boostrap, as a main JS framework please use KnockoutJS http://knockoutjs.com/
+Calculator supports following operations:
+* the sum
+* substraction
+* multiplication
+* division
 
-The main idea: do not use addEventListeners to elements, use observables from KnockoutJS framework and the framework main logic, please do not use jQuery.
+
+### Requirements
+* Aplication should be completely based on [KnockoutJS](http://knockoutjs.com/)
+* Single page application
+* Human-Friendly UI
+* Error handling
+
+### It's allowed to use for implementation:
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
+### Not recommended to use
+* jQuery
+* Custom addEventListeners
+
+P.S. (instead, please use observables from KnockoutJS)
+
+
+#### In case of any questions don't hesistate to contact me directly.
