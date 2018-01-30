@@ -17,6 +17,7 @@ Calculator supports following operations:
 
 ### Requirements
 * Aplication should be completely based on [ReactJS+Redux](https://reactjs.org/)
+* Please do not save state of app in React state - instead save it in Redux store
 * Single page application
 * Human-Friendly UI
 * Error handling
@@ -24,6 +25,7 @@ Calculator supports following operations:
 ### It's allowed to use for implementation:
 * HTML
 * CSS
+* ReactJS
 * JavaScript
 * Bootstrap
 
