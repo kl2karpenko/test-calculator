@@ -2,7 +2,7 @@
 Online calculator with history of actions.
 
 ## Description
-Implement single page application based on [KnockoutJS](http://knockoutjs.com/). The application is online calculator. There are should be visible on page:
+Implement single page application based on [ReactJS+Redux](https://reactjs.org/). The application is online calculator. There are should be visible on page:
 * numbers pad
 * operations pad 
 * field to see entered numbers, operations and calculations' result
@@ -16,7 +16,7 @@ Calculator supports following operations:
 
 
 ### Requirements
-* Aplication should be completely based on [KnockoutJS](http://knockoutjs.com/)
+* Aplication should be completely based on [ReactJS+Redux](https://reactjs.org/)
 * Single page application
 * Human-Friendly UI
 * Error handling
@@ -31,7 +31,7 @@ Calculator supports following operations:
 * jQuery
 * Custom addEventListeners
 
-P.S. (instead, please use observables from KnockoutJS)
+P.S. (instead, please use observables from ReactJS)
 
 
 #### In case of any questions don't hesistate to contact me directly.
